@@ -1,0 +1,10 @@
+1: IOT ESP32 WROOM Wi-Fi module
+   Manufacturer: Espressif Systems
+   Type: Microcontroller
+2: Ultrasonic Sensor
+3: Servo Motor
+4: IR Sensor(Dust Hight Recognition Sensor)
+6: Power Supply 9V
+7: Bug Converter(3v-5v)
+8: BreadBoard
+9: Connecting Wire
